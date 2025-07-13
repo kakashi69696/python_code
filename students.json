@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Prazwol",
+        "age": "20",
+        "grade": "A"
+    },
+    {
+        "name": "Billie",
+        "age": "23",
+        "grade": "B"
+    },
+    {
+        "name": "Finneas",
+        "age": "27",
+        "grade": "C"
+    },
+    {
+        "name": "Jisen",
+        "age": "19",
+        "grade": "D"
+    },
+    {
+        "name": "Pratham",
+        "age": "22",
+        "grade": "E"
+    }
+]
